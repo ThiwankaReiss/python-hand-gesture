@@ -11,7 +11,7 @@ offset = 20
 imgSize = 300
 counter = 0
 
-labels = ["Hi","I","Love","You","Flower"]
+labels = ["Hi","I","Love","You","Rose for you"]
 
 # Load small images
 small_images = {
@@ -19,7 +19,7 @@ small_images = {
     "I": cv2.imread("C:/Thiwanka/ThiwankaPython/test rename/Handgesture/img/I.png"),
     "Love": cv2.imread("C:/Thiwanka/ThiwankaPython/test rename/Handgesture/img/love.png"),
     "You": cv2.imread("C:/Thiwanka/ThiwankaPython/test rename/Handgesture/img/you.png"),
-    "Flower": cv2.imread("C:/Thiwanka/ThiwankaPython/test rename/Handgesture/img/flower.png")
+    "Rose for you": cv2.imread("C:/Thiwanka/ThiwankaPython/test rename/Handgesture/img/flower.png")
 }
 
 while True:
